@@ -1,11 +1,11 @@
 @tool
 class_name XRToolsForceBody
-extends AnimatableBody3D
+extends StaticBody3D
 
 
 ## XRTools Force Body script
 ##
-## This script enhances AnimatableBody3D with move_and_slide and the ability
+## This script enhances StaticBody3D with move_and_slide and the ability
 ## to push bodies by emparting forces on them.
 
 
