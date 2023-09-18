@@ -1,5 +1,6 @@
 .import/
 .godot/
 build/
+android/
 android/build/
 android/.build_version

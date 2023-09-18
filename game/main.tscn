@@ -7,6 +7,8 @@
 [node name="Main" instance=ExtResource("1")]
 script = ExtResource("2_dmefr")
 main_scene = "res://game/start_scene/start_scene.tscn"
+main_scene = "res://game/start_scene/start_scene.tscn"
+main_scene = "res://game/start_scene/start_scene.tscn"
 
 [node name="LoadingScreen" parent="." index="2"]
 splash_screen = ExtResource("2")
